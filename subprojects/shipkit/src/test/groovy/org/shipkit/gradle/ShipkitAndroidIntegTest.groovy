@@ -113,7 +113,6 @@ class ShipkitAndroidIntegTest extends GradleSpecification {
 :lib:transformClassesAndResourcesWithSyncLibJarsForRelease
 :lib:mergeReleaseJniLibFolders
 :lib:transformNativeLibsWithMergeJniLibsForRelease
-:lib:transformNativeLibsWithStripDebugSymbolForRelease
 :lib:transformNativeLibsWithSyncJniLibsForRelease
 :lib:bundleReleaseAar
 :lib:generatePomFileForJavaLibraryPublication
